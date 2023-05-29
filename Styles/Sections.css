@@ -1,0 +1,35 @@
+.Vision {
+  background-color: lightblue;
+  height: 700px;
+  padding: 5%;
+  padding-top: 1%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.Main {
+  flex: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Title {
+  flex: 5%;
+}
+
+.Identity {
+  height: 700px;
+  background-color: lightpink;
+  padding: 5%;
+  padding-top: 1%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.Item {
+  background-color: aqua;
+  width: 47%;
+  border-radius: 30px;
+}
